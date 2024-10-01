@@ -46,7 +46,7 @@ def create_rfm_df(df):
     return rfm_df
 
 # Load data
-df = pd.read_csv("all_data.csv")
+df = pd.read_csv("/dashboard/all_data.csv")
 
 # Konversi kolom timestamp menjadi datetime
 df['order_purchase_timestamp'] = pd.to_datetime(df['order_purchase_timestamp'])
