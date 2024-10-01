@@ -1,4 +1,4 @@
-# Dashboard Analisis Data Penjualan ✨
+# Dashboard Analisis Data E-Commerce Dicoding✨
 
 ## Setup Environment - Anaconda
 ```
